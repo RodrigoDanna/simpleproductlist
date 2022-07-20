@@ -1,0 +1,23 @@
+.App{
+  text-align: center;
+}
+
+.add-product{
+  border-top:1px solid black;
+  padding-top:2rem;
+  margin-top:2rem;
+
+}
+
+.add-product form{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.add-product form input{
+  display:flex;
+  flex-direction: column;
+  margin-bottom:1rem;
+}
